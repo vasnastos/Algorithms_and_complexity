@@ -3,6 +3,7 @@
   <b> ALGORITHMS AND COMPLEXITY</b>
     <hr>
     <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="270">
+     <hr>
      <ul>
        <li>Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Task</a></li>
        <li>Task Solution:<a href="">Task Solution</a></li>
