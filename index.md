@@ -1,6 +1,6 @@
 <html>
   <body>
-  ##Header 2 ALGORITHMS AND COMPLEXITY
+  <b> ALGORITHMS AND COMPLEXITY</b>
     <hr>
     <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="270">
      <ul>
