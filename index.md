@@ -1,7 +1,7 @@
 <html>
   <body>
-  <h3 text-align:center;>ALGORITHMS AND COMPLEXITY</h3>
-    <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="270"></img>
+  #HEADER 1-ALGORITHMS AND COMPLEXITY
+    <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="270">
      <ul>
        <li>Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Task</a></li>
        <li>Task Solution:<a href="">Task Solution</a></li>
