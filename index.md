@@ -1,1 +1,12 @@
+<html>
+  <body>
+  <h3 text-align:center;>ALGORITHMS AND COMPLEXITY</h3>
+    <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="270"></img>
+     <ul>
+       <li>Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Task</a></li>
+       <li>Task Solution:<a href="">Task Solution</a></li>
+       <li>Download Zip:<a href="https://github.com/vasnastos/Algorithms_and_complexity/archive/main.zip">ZIP</a></li>
+       </ul>
+  </body>
+  </html>
 
