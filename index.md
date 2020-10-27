@@ -1,6 +1,7 @@
 <html>
   <body>
-  #HEADER 1-ALGORITHMS AND COMPLEXITY
+  #Heading level 1-ALGORITHMS AND COMPLEXITY
+    <hr>
     <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="270">
      <ul>
        <li>Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Task</a></li>
