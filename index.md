@@ -1,6 +1,6 @@
 <html>
   <body>
-  <b> ALGORITHMS AND COMPLEXITY</b>
+  <b><h3 style="text-align:center; color:blue;"> ALGORITHMS AND COMPLEXITY</h3></b>
     <hr>
     <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="270">
      <hr>
