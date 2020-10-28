@@ -9,7 +9,7 @@
        <li>Task Solution:<a href="">Task Solution</a></li>
        <li>Download Zip:<a href="https://github.com/vasnastos/Algorithms_and_complexity/archive/main.zip">ZIP</a></li>
        </ul>
-    <input type="button" onclick="https://github.com/vasnastos" value="GITHUB" margin-left="190px;">
+    <input type="button" onclick="https://github.com/vasnastos" value="GITHUB" margin-left="190px;" action="https://github.com/vasnastos">
   </body>
   </html>
 
