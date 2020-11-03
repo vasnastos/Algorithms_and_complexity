@@ -2,7 +2,7 @@
 <body>
 <h3>Algorithms and complexity course</h3>
 <hr>
-<img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380"></img>
+<img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380">
 <hr>
   <ol>
     <li>Κομμάτι υλοποίησης:</li>
