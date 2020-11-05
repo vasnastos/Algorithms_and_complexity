@@ -15,6 +15,8 @@
     <h4>* Υπολογισμός του Conflict Density.</h4>
     <h4>*Κώδικας υλοποίησης:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/aalgorithms%20and%20complexity.zip">Code</a></h4>
     <hr>
+    <li>Εύρεση στατιστικών στοιχείων
+    </li>
    <li>Πλήρης Υλοποίηση Εργασίας</li>
     <ul>
 <li>Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Exercise</a></li>
