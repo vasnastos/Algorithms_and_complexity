@@ -1,4 +1,7 @@
 <html>
+  <head>
+    <title>Algorithms and Complexity-Coloring graph algorithms</title>
+    </head>
 <body>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
 <hr>
@@ -16,7 +19,22 @@
     <h4>*Κώδικας υλοποίησης:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/aalgorithms%20and%20complexity.zip">Code</a></h4>
     <hr>
     <li>Εύρεση στατιστικών στοιχείων
+      <ul>
+        <li>Αριθμός κορυφών.</li>
+        <li> Πυκνότητα. Για τον υπολογισμό της πυκνότητας θα πρέπει να κατασκευαστεί ο πίνακας συ‐
+γκρούσεων. Ο πίνακας συγκρούσεων είναι ένας δισδιάστατος πίνακας c στον οποίο κάθε
+στοιχείο cij = 1 αν η εξέταση i βρίσκεται σε σύγκρουση με την εξέταση j ενώ ισχύει
+ότι cij = 0 σε άλλη περίπτωση. Η πυκνότητα συγκρούσεων υπολογίζεται διαιρώντας τον
+αριθμό των στοιχείων του πίνακα συγκρούσεων που έχουν την τιμή 1 με το συνολικό πλή‐
+θος των στοιχείων του πίνακα.</li>
+        <li>Για τους βαθμούς (degrees) των κορυφών η ελάχιστη τιμή (min), η διάμεσος τιμή (median),
+η μέγιστη τιμή (max), η μέση τιμή (mean) καθώς και ο συντελεστής διακύμανσης (CV=coefficient
+of variation) που ορίζεται ως η τυπική απόκλιση προς τη μέση τιμή.</li>
+        <li>Solution Code:<a href="">Code</a></li>
+        </ul>
     </li>
+    <br>
+    <hr>
    <li>Πλήρης Υλοποίηση Εργασίας</li>
     <ul>
 <li>Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Exercise</a></li>
