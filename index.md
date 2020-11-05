@@ -30,7 +30,7 @@
         <li>Για τους βαθμούς (degrees) των κορυφών η ελάχιστη τιμή (min), η διάμεσος τιμή (median),
 η μέγιστη τιμή (max), η μέση τιμή (mean) καθώς και ο συντελεστής διακύμανσης (CV=coefficient
 of variation) που ορίζεται ως η τυπική απόκλιση προς τη μέση τιμή.</li>
-        <li>Solution Code:<a href="">Code</a></li>
+        <li>Solution Code:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></li>
         </ul>
     </li>
     <br>
