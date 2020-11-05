@@ -4,6 +4,7 @@
 <hr>
 <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380"></img>
 <hr>
+  <br>
   <ol>
     <li>Κομμάτι υλοποίησης:</li>
     <h4>*Δημιουργία λογαριασμού στο GitHub.</h4>
@@ -18,7 +19,7 @@
    <li>Πλήρης Υλοποίηση Εργασίας</li>
     <ul>
 <li>Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Exercise</a></li>
-<li><a href="">Solution</a></li>
+<li>Solution:<a href="">Solution</a></li>
 </ul>
   </ol>
 </body>
