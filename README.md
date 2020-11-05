@@ -1,6 +1,6 @@
 <html>
 <body>
-<h3>Algorithms and complexity course</h3>
+<center><h3>Algorithms and complexity course</h3></center>
 <hr>
 <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380"></img>
 <hr>
