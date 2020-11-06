@@ -1,4 +1,5 @@
-
+<html>
+  <body>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
 <hr>
 <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380">
@@ -32,10 +33,10 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <br>
     <hr>
       </ol>
-    <br>
   <div style="border:2px solid;">
   <li>Exercise:<a href=""></a></li>
    <li>Solution using vs code:<a href=""></a></li>
    <li>solution using QtCreator:<a href=""></a></li>
   </div>
-
+</body>
+  </html>
