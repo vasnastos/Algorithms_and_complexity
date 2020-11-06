@@ -36,11 +36,9 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <br>
   </body>
 </html>
-    ``` markdown
-      <ul>
-      <li>Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Exercise</a></li>
-      <li>Solution using visual studio 2019:<a href="">Sol</a></li>
-      <li>Solution using Qt Creator:<a href="">Sol</a></li>
-      </ul>
+    ``` 
+     Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Exercise</a>
+     Solution using visual studio 2019:<a href="">Sol</a>
+     Solution using Qt Creator:<a href="">Sol</a>
   ```
 
