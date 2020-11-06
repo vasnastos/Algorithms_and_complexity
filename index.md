@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>Algorithms and Complexity-Coloring graph algorithms</title>
-    </head>
 <body>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
 <hr>
