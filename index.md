@@ -34,12 +34,9 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       </ol>
      <hr>
     <br>
-  <div style="border:2px solid;">
+  <div style="border:2px solid; bgcolor:#81cbeb;">
  <center>
  <li>Exercise:<a href=""></a></li>
    <li>Solution using vs code:<a href=""></a></li>
    <li>solution using QtCreator:<a href=""></a></li>
    <center>
-  </div>
-</body>
-  </html>
