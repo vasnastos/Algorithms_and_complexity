@@ -34,11 +34,11 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <hr>
       </ol>
     <br>
-  </body>
-</html>
-    ``` 
+    ``` markdown
      Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Exercise</a><br>
      Solution using visual studio 2019:<a href="">Sol</a><br>
      Solution using Qt Creator:<a href="">Sol</a><br>
   ```
+    </body>
+</html>
 
