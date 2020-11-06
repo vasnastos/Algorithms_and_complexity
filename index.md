@@ -33,7 +33,9 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <hr>
       </ol>
     <br>
-    ``` markdown
-  HELLO
-  ```
+  <div style="border:2px solid;">
+  <li>Exercise:<a href=""></a></li>
+   <li>Solution using vs code:<a href=""></a></li>
+   <li>solution using QtCreator:<a href=""></a></li>
+  </div>
 
