@@ -37,8 +37,8 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
   </body>
 </html>
     ``` 
-     Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Exercise</a>
-     Solution using visual studio 2019:<a href="">Sol</a>
-     Solution using Qt Creator:<a href="">Sol</a>
+     Task:<a href="https://github.com/vasnastos/Algorithms_and_complexity/blob/main/algo_complexity.pdf">Exercise</a><br>
+     Solution using visual studio 2019:<a href="">Sol</a><br>
+     Solution using Qt Creator:<a href="">Sol</a><br>
   ```
 
