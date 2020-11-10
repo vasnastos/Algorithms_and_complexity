@@ -4,12 +4,12 @@
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-gap: 10px;
-  padding: 60px;
+  padding: 5px;
 }
 
 .grid-container > div {
   text-align: center;
-  padding: 60px;
+  padding: 5px;
 }
 
 .item1 {
