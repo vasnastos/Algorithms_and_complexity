@@ -3,15 +3,14 @@
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  grid-row-gap: 50px;
+  grid-row-gap: 20px;
   grid-column-gap: 5px;
   padding: 5px;
 }
 
 .grid-container > div {
   text-align: center;
-  padding: 40px 0;
-  font-size: 30px;
+  padding: 20px 0;
   }
     </style>
   <body>
@@ -56,7 +55,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <br>
     </ol>
       <div class="grid-container">
-<div class="item1"><a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><abbr title="Exercise source"><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.png?raw=true" width="20%" height="20%"></abbr></a></div> 
+<div class="item1"><a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><abbr title="Exercise source"><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.png?raw=true" width="20%" height="30%"></abbr></a></div> 
       <div class="item2"><a href=""><abbr title="full zip solution"><img src="https://github.com/vasnastos/Page_Images/blob/master/solution.png?raw=true" width="20%" height="20%"></abbr></a></div>
        test
       </div>
