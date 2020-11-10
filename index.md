@@ -40,4 +40,4 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <hr>
     <br>
     </ol>
-<a href=""><img src="https://github.com/vasnastos/Page_Images/blob/master/exercise.png?raw=true" width="20%" height="7%" style="border:null; border:collapse;"></a>
+<a href=""><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.jpg?raw=true" width="20%" height="4%" style="border:null; border:collapse;"></a>
