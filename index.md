@@ -1,8 +1,41 @@
 <html>
   <style>
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
 
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
  </style>
   <body>
+  <div class="navbar">
+  <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a> 
+  <a href="#"><i class="fa fa-fw fa-search"></i> Search</a> 
+  <a href="#"><i class="fa fa-fw fa-envelope"></i> Contact</a> 
+  <a href="#"><i class="fa fa-fw fa-user"></i> Login</a>
+</div>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
 <hr>
 <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380">
