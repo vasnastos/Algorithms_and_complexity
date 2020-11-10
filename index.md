@@ -31,11 +31,12 @@
  </style>
   <body>
   <div class="navbar">
-  <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a> 
-  <a href="#"><i class="fa fa-fw fa-search"></i> Search</a> 
-  <a href="#"><i class="fa fa-fw fa-envelope"></i> Contact</a> 
-  <a href="#"><i class="fa fa-fw fa-user"></i> Login</a>
+  <a class="active" href="https://github.com/vasnastos"><i class="fa fa-fw fa-home"></i> Home</a> 
+  <a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><i class="fa fa-fw fa-search"></i> EXERCISE</a> 
+  <a href="#"><i class="fa fa-fw fa-envelope"></i> SOLUTION ZIP</a> 
+  <a href="https://twitter.com/home?lang=el"><i class="fa fa-fw fa-user"></i> TWITTER</a>
 </div>
+  <br><br>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
 <hr>
 <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380">
