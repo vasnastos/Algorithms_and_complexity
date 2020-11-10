@@ -1,21 +1,18 @@
 <html>
   <style>
-   .grid-container {
+.grid-container {
   display: grid;
-  grid-template-columns: auto auto auto;
-  grid-gap: 80px;
+  grid-template-columns: auto auto auto auto;
+  grid-row-gap: 50px;
+  grid-column-gap: 10px;
   padding: 10px;
 }
 
 .grid-container > div {
   text-align: center;
-  padding: 20px;
-}
-
-.item1 {
-  grid-row-start: 1;
-  grid-row-end: 3;
-}
+  padding: 20px 0;
+  font-size: 30px;
+  }
     </style>
   <body>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
