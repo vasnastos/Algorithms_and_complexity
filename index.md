@@ -31,12 +31,14 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
         </ul>
     </li>
     <br>
-      </ol>
      <hr>
     <br>
-  <div style="border:2px solid; bgcolor:#81cbeb;">
- <center>
- <li>Exercise:<a href=""></a></li>
-   <li>Solution using vs code:<a href=""></a></li>
-   <li>solution using QtCreator:<a href=""></a></li>
-   <center>
+    <li><h3>Υλοποιήση Αλγορίθμων Χρωματισμού</h3></a></li>
+    <ul>
+      <li>First Fit:<a href="">Code</a></li>
+     </ul>
+    <hr>
+    <br>
+    </ol>
+    ```markdown
+    ```
