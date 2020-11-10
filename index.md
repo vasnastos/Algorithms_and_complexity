@@ -3,13 +3,13 @@
    .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  grid-gap: 20px;
-  padding: 10px;
+  grid-gap: 10px;
+  padding: 60px;
 }
 
 .grid-container > div {
   text-align: center;
-  padding: 20px;
+  padding: 60px;
 }
 
 .item1 {
