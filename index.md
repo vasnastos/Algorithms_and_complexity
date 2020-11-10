@@ -1,11 +1,14 @@
 <html>
   <style>
-ul {
+    ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 li {
@@ -20,10 +23,14 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+li a:hover:not(.active) {
   background-color: #111;
 }
-</style>
+
+.active {
+  background-color: #4CAF50;
+}
+ </style>
   <body>
   <ul>
   <li><a class="active" href="#home">Home</a></li>
