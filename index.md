@@ -8,14 +8,13 @@
 }
 
 .grid-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
   padding: 20px;
 }
 
 .item1 {
   grid-row-start: 1;
-  grid-row-end: 2;
+  grid-row-end: 3;
 }
     </style>
   <body>
