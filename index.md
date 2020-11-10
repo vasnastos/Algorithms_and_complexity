@@ -2,14 +2,14 @@
   <style>
    .grid-container {
   display: grid;
-  grid-template-columns: auto auto auto auto;
-  grid-gap: 10px;
-  padding: 5px;
+  grid-template-columns: auto auto auto;
+  grid-gap: 80px;
+  padding: 10px;
 }
 
 .grid-container > div {
   text-align: center;
-  padding: 5px;
+  padding: 20px;
 }
 
 .item1 {
@@ -59,8 +59,8 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <br>
     </ol>
       <div class="grid-container">
-<div class="item1"><a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><abbr title="Exercise source"><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.png?raw=true" width="5%" height="10%" style="padding-right=80px; border:null; border:collapse;"></abbr></a></div> 
-      <div class="item2"><a href=""><abbr title="full zip solution"><img src="https://github.com/vasnastos/Page_Images/blob/master/solution.png?raw=true" width="10%" height="5%" style="border:null; border:collapse;"></abbr></a></div>
+<div class="item1"><a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><abbr title="Exercise source"><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.png?raw=true" width="5%" height="10%"></abbr></a></div> 
+      <div class="item2"><a href=""><abbr title="full zip solution"><img src="https://github.com/vasnastos/Page_Images/blob/master/solution.png?raw=true" width="10%" height="5%"></abbr></a></div>
       </div>
     <br>
     <div><center>Icons made by <a href="https://www.flaticon.com/authors/prettycons" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></center></div>
