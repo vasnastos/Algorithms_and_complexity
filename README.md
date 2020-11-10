@@ -22,5 +22,9 @@
 <li>Solution:<a href="">Solution</a></li>
 </ul>
   </ol>
+  <br>
+  <center>
+    <h2>For more info visit Page:<a href="https://vasnastos.github.io/Algorithms_and_complexity/" target="_blank">Link</a></h2>
+    </center>
 </body>
 </html>
