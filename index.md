@@ -31,7 +31,7 @@
  </style>
   <body>
   <div class="navbar">
-  <a class="active" href="https://github.com/vasnastos"><i class="fa fa-fw fa-home"></i> Home</a> 
+  <a class="active" href="https://github.com/vasnastos"><i class="fa fa-fw fa-home"></i> HOME</a> 
   <a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><i class="fa fa-fw fa-search"></i> EXERCISE</a> 
   <a href="#"><i class="fa fa-fw fa-envelope"></i> SOLUTION ZIP</a> 
   <a href="https://twitter.com/home?lang=el"><i class="fa fa-fw fa-user"></i> TWITTER</a>
