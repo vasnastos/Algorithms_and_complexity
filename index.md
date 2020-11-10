@@ -55,9 +55,9 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <br>
     </ol>
       <div class="grid-container">
-<div class="item1"><a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><abbr title="Exercise source"><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.png?raw=true" width="20%" height="32%"></abbr></a></div> 
+<div class="item1"><a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><abbr title="Exercise source"><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.png?raw=true" width="20%" height="50%"></abbr></a></div> 
       <div class="item2"><a href=""><abbr title="full zip solution"><img src="https://github.com/vasnastos/Page_Images/blob/master/solution.png?raw=true" width="20%" height="20%"></abbr></a></div>
-       test1
+       test2
       </div>
     <br>
     <div><center>Icons made by <a href="https://www.flaticon.com/authors/prettycons" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></center></div>
