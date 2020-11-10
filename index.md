@@ -42,7 +42,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     </ol>
     <center>
 <a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><abbr title="Exercise source"><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.png?raw=true" width="10%" height="1%" style="padding-right=10%; border:null; border:collapse;"></abbr></a>
-      <a href=""><abbr title="full zip solution"><img src="https://github.com/vasnastos/Page_Images/blob/master/solution.png?raw=true" width="10%" height="1%" style="border:null; border:collapse;"></a>
+      <a href=""><abbr title="full zip solution"><img src="https://github.com/vasnastos/Page_Images/blob/master/solution.png?raw=true" width="10%" height="1%" style="border:null; border:collapse;"></abbr></a>
       </center>
     <br>
     <div>Icons made by <a href="https://www.flaticon.com/authors/prettycons" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
