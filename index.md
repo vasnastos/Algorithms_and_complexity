@@ -1,18 +1,4 @@
 <html>
-  <style>
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-  grid-row-gap: 20px;
-  grid-column-gap: 5px;
-  padding: 5px;
-}
-
-.grid-container > div {
-  text-align: center;
-  padding: 10px 0;
-  }
-    </style>
   <body>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
 <hr>
@@ -54,10 +40,5 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <hr>
     <br>
     </ol>
-      <div class="grid-container">
-<div class="item1"><a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><abbr title="Exercise source"><img src="https://github.com/vasnastos/Page_Images/blob/master/exam.png?raw=true" width="30%" height="70%"></abbr></a></div> 
-      <div class="item2"><a href=""><abbr title="full zip solution"><img src="https://github.com/vasnastos/Page_Images/blob/master/solution.png?raw=true" width="20%" height="20%"></abbr></a></div>
-      </div>
-    <br>
-    <div><center>Icons made by <a href="https://www.flaticon.com/authors/prettycons" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></center></div>
+    
 
