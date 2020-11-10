@@ -6,9 +6,7 @@
 }
 .grid-item {
 border:null;
- borde:collapse;
-  padding: 40px;
-  text-align: center;
+  padding: 100px;
 }
 </style>
   <body>
