@@ -42,7 +42,7 @@
 <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380">
 <hr>
   <ol>
-    <li>Κομμάτι υλοποίησης:</li>
+    <li>1o Κομμάτι υλοποίησης:</li>
     <h4>*Δημιουργία λογαριασμού στο GitHub.</h4>
     <h4>*Δημιουργία repository στο Github για την εργασία του μαθήματος.</h4>
     <h4>* Ενεργοποίηση Github pages για το repository.</h4>
@@ -76,6 +76,15 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
      </ul>
     <hr>
     <br>
+    <li><b>4ο κομμάτι Υλοποίησης</b></li>
+    <ul>
+      <ul>
+        <li>Εύρεση γειτονικών κορυφών για κάθε κορυφή.</li>
+        <li>Υλοποίηση In-Memory database με χρήση sqlite αποθήκευση στατιστικών στοιχείων από κάθε αρχείο.</li>
+        <li>Εμφάνιση όλων των αποθηκευμένων δεδομένων από την βάση δεδομένων.</li>
+       </ul>
+      <li>Κώδικας υλοποίησης:<link rel=""/></li>
+    </ul>
     </ol>
     
 
