@@ -86,7 +86,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       <li><h4>Κώδικας υλοποίησης:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></h4></li>
     </ul>
     </ol>
-  <h4>Τεχνική Αναφόρα:<a href="/report.md">Page</a></h4>
-  Test for Second Page
+  <h4>Τεχνική Αναφόρα:<a href="report.md">Page</a></h4>
+  Test for Second Page 1
     
 
