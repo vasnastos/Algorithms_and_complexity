@@ -42,7 +42,7 @@
 <img src="https://github.com/vasnastos/Page_Images/blob/master/algorithms.jpg?raw=true" width="1024" height="380">
 <hr>
   <ol>
-    <li>1o Κομμάτι υλοποίησης:</li>
+    <li><h3>Ανάγνωση αρχείων-Εύρεση Cv-Πίνακας Γειτνίασης</h3></li>
     <h4>*Δημιουργία λογαριασμού στο GitHub.</h4>
     <h4>*Δημιουργία repository στο Github για την εργασία του μαθήματος.</h4>
     <h4>* Ενεργοποίηση Github pages για το repository.</h4>
@@ -52,7 +52,7 @@
     <h4>* Υπολογισμός του Conflict Density.</h4>
     <h4>*Κώδικας υλοποίησης:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/aalgorithms%20and%20complexity.zip">Code</a></h4>
     <hr>
-    <li>Εύρεση στατιστικών στοιχείων
+    <li><h3>Εύρεση στατιστικών στοιχείων<h3></li>
       <ul>
         <li>Αριθμός κορυφών.</li>
         <li> Πυκνότητα. Για τον υπολογισμό της πυκνότητας θα πρέπει να κατασκευαστεί ο πίνακας συ‐
@@ -66,7 +66,6 @@
 of variation) που ορίζεται ως η τυπική απόκλιση προς τη μέση τιμή.</li>
         <li>Solution Code:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></li>
         </ul>
-    </li>
     <br>
      <hr>
     <br>
@@ -76,14 +75,15 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
      </ul>
     <hr>
     <br>
-    <li><b>4ο κομμάτι Υλοποίησης</b></li>
+    <li><b><h3>Γειτονικές Κορυφές-Βάση δεδομένων</b></li>
     <ul>
+      <li><h3><h4>Υλοποιούνται</h4></li>
       <ul>
         <li>Εύρεση γειτονικών κορυφών για κάθε κορυφή.</li>
         <li>Υλοποίηση In-Memory database με χρήση sqlite αποθήκευση στατιστικών στοιχείων από κάθε αρχείο.</li>
         <li>Εμφάνιση όλων των αποθηκευμένων δεδομένων από την βάση δεδομένων.</li>
        </ul>
-      <li>Κώδικας υλοποίησης:<link rel=""/></li>
+      <li>Κώδικας υλοποίησης:<link rel="">Code</link></li>
     </ul>
     </ol>
     
