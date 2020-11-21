@@ -19,7 +19,7 @@
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: #ffcc00;
 }
 
 @media screen and (max-width: 500px) {
@@ -35,6 +35,7 @@
   <a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><i class="fa fa-fw fa-search"></i> EXERCISE</a> 
   <a href="#"><i class="fa fa-fw fa-envelope"></i> SOLUTION ZIP</a> 
   <a href="https://twitter.com/home?lang=el"><i class="fa fa-fw fa-user"></i> TWITTER</a>
+    <a class="active" href="report.html">Techical Report</a>
 </div>
   <br><br>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
@@ -86,7 +87,5 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       <li><h4>Κώδικας υλοποίησης:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></h4></li>
     </ul>
     </ol>
-  <h4>Τεχνική Αναφόρα:<a href="report.html">Page</a></h4>
-  Test for Second Page 2 Try
     
 
