@@ -73,7 +73,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <li><h3>Υλοποιήση Αλγορίθμων Χρωματισμού</h3></li>
     <ul>
       <li>First Fit:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></li>
-      <li>DSatur:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity(DSatur_fixed).zip">Code</li>
+      <li>DSatur:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity(DSatur_fixed).zip">Code</a></li>
      </ul>
     <hr>
     <br>
