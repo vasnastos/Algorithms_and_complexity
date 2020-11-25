@@ -88,9 +88,9 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       <br>
       <li><h4>Κώδικας υλοποίησης:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></h4></li>
     </ul>
-    <li>Πρόσφτατα ενημερωμένη Τεχνική Αναφορά</li>
+    <li><h3>Πρόσφτατα ενημερωμένη Τεχνική Αναφορά</h3></li>
     <ul>
-      <li>Techical Report:<a href="">Word</a></li>
+      <li>Techical Report:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Alco.docx">Word</a></li>
       </ul>
     </ol>
     
