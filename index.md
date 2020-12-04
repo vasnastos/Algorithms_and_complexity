@@ -93,6 +93,10 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     <ul>
       <li>Techical Report:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Alco.docx">Word</a></li>
       </ul>
+    <li><h3>Εξτρα ΕΚΔΟΣΕΙΣ</h3></li>
+    <ul>
+      <li>Fixed Data Reading Problems:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Techical_Reports/Alco_fixed.docx">Code</a></li>
+      </ul>
     </ol>
     
 
