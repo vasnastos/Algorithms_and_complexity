@@ -75,7 +75,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       <li>First Fit:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></li>
       <li>DSatur:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity(DSatur_fixed).zip">Code</a></li>
       <li>RLF:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity(RLF).zip">Code</a></li>
-      <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity(bdsatur).zip">BDSatur</a></li>
+      <li>BDSATUR:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity(bdsatur).zip">BDSatur</a></li>
      </ul>
     <hr>
     <br>
