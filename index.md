@@ -92,7 +92,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
     </ul>
     <li><h3>Πρόσφατα ενημερωμένη Τεχνική Αναφορά</h3></li>
     <ul>
-      <li>Techical Report:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Alco.docx">Word</a></li>
+      <li>Techical Report:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Techical_Reports/ALCO_3.docxmain/Alco.docx">Word</a></li>
       </ul>
     <li><h3>Εξτρα ΕΚΔΟΣΕΙΣ</h3></li>
     <ul>
