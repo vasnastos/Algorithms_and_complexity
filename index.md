@@ -36,7 +36,7 @@
   <a href="#"><i class="fa fa-fw fa-envelope"></i> SOLUTION ZIP</a> 
   <a href="https://twitter.com/home?lang=el"><i class="fa fa-fw fa-user"></i> TWITTER</a>
   <a href="report.html"><i class="active"></i>Techical Report</a>
-    <a href=""><i class="active">App Installation</i></a>
+    <a href="installation.html"><i class="active">App Installation</i></a>
 </div>
   <br><br>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
