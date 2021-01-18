@@ -103,7 +103,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       </ul>
     <br><br>
     <hr>
-    <li><h3>Αρχεία κώδικα που χρησιμοποιήθηκαν στην εφαρμογή</h3><li>
+    <li><h3>Αρχεία κώδικα που χρησιμοποιήθηκαν στην εφαρμογή</h3></li>
     <ul>
       <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/tree/main/Qt_Header_files">Header files</a></li>
       <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/tree/main/Qt_source_code">Source files</a></li>
