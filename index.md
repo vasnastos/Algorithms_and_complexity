@@ -102,7 +102,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       <li>Extra Edition RLF Algorithm:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/RLF-Fixed.zip">Code</a></li>
       </ul>
     <br><br>
-    <hr>
+    <hr style="border-top:2px solid red;">
     <li><h3>Αρχεία κώδικα που χρησιμοποιήθηκαν στην εφαρμογή</h3></li>
     <ul>
       <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/tree/main/Qt_Header_files">Header files</a></li>
