@@ -101,6 +101,15 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       <li>Fixed Data Reading Problems:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Techical_Reports/Alco_fixed.docx">Code</a></li>
       <li>Extra Edition RLF Algorithm:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/RLF-Fixed.zip">Code</a></li>
       </ul>
+    <br><br>
+    <hr>
+    <li><h3>Αρχεία κώδικα που χρησιμοποιήθηκαν στην εφαρμογή</h3><li>
+    <ul>
+      <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/tree/main/Qt_Header_files">Header files</a></li>
+      <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/tree/main/Qt_source_code">Source files</a></li>
+      </ul>
+    <br>
+    <li><h3>Release Έκδοση Εφαρμογής:<a href="">Release</a></h3></li>
     </ol>
     
 
