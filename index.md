@@ -109,7 +109,7 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
       <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/tree/main/Qt_source_code">Source files</a></li>
       </ul>
     <br>
-    <li><h3>Release Έκδοση Εφαρμογής:<a href="">Release</a></h3></li>
+    <li><h3>Release Έκδοση Εφαρμογής:<a href="https://github.com/vasnastos/PROGRAMMING-IN-QT/releases/tag/1.0">Release</a></h3></li>
     </ol>
     
 
