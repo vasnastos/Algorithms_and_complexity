@@ -23,14 +23,10 @@ class graph
 {
     std::list <int> *adj;
     int V;
-    public:
-      graph(int v):V(v) {
-          this->adj=new std::list<int>[v+1];
-      }
-      graph() {delete[] this->adj;}
-      void fill_graph(std::vector <std::set <int>> &lst)
+    void fill_graph(std::vector <std::set <int>> &lst)
       {
-         for(int i=1,t=lst.size();i<t;i++)
+          std::cout<<"Size-->"<<lst.size()<<std::endl;
+         for(int i=1;i<lst.size();i++)
          {
              for(int j=1;j<lst.size();j++)
              {
@@ -42,8 +38,27 @@ class graph
              }
          }
       }
+    public:
+      graph(int v,std::vector <std::set<int>> &ls):V(v) {
+          this->adj=new std::list<int>[v+1];
+          this->fill_graph(ls);
+      }
+      ~graph() {delete[] this->adj;}
+      void show_Neibourghs()
+      {
+          for(int i=1;i<=this->V;i++)
+          {
+              std::cout<<i<<"::";
+              for(auto &x:this->adj[i])
+              {
+                 std::cout<<x<<"\t";
+              }
+              std::cout<<std::endl;
+          }
+      }
       std::vector <int> coloring()
       {
+          this->show_Neibourghs();
           std::vector <int> res;
           for(int i=0;i<this->V+1;i++)
           {
@@ -72,11 +87,13 @@ class graph
              int av;
              for(av=0;av<=this->V;av++)
              {
+                 std::cout<<av<<"\t";
                  if(available[av])
                  {
                      break;
                  }
              }
+             std::cout<<std::endl;
              res[i]=av;
              for(auto j=this->adj[i].begin();j!=this->adj[i].end();j++)
              {
