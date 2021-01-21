@@ -26,6 +26,14 @@
 {
  background-color:#54131f;
 }
+.sc1
+{
+   background-color:#3e754d;
+}
+.sc2
+{
+  background-color:#3c3d5c;
+}
 
 @media screen and (max-width: 500px) {
   .navbar a {
@@ -40,9 +48,9 @@
   <a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><i class="fa fa-fw fa-search"></i> EXERCISE</a> 
   <a href="#"><i class="fa fa-fw fa-envelope"> SOLUTION ZIP</i></a> 
   <a href="https://twitter.com/home?lang=el"><i class="fa fa-fw fa-user"> TWITTER</i></a>
-  <a style="background-color:#3e754d;" href="report.html">Techical Report</a>
+  <a class="sc1" href="report.html">Techical Report</a>
     <a class="sc" href="https://github.com/vasnastos/PROGRAMMING-IN-QT/releases/tag/1.0">Release Έκδοση</a>
-    <a style="background-color:#3c3d5c;" href="installation.html"><i>App Installation</i></a>
+    <a class="sc2" href="installation.html"><i>App Installation</i></a>
 </div>
   <br><br>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
