@@ -22,6 +22,11 @@
   background-color: #ffcc00;
 }
 
+.sc
+{
+ background-color:#54131f;
+}
+
 @media screen and (max-width: 500px) {
   .navbar a {
     float: none;
@@ -36,8 +41,8 @@
   <a href="#"><i class="fa fa-fw fa-envelope"> SOLUTION ZIP</i></a> 
   <a href="https://twitter.com/home?lang=el"><i class="fa fa-fw fa-user"> TWITTER</i></a>
   <a href="report.html"><i class="active">Techical Report</i></a>
-    <a class="active" href="https://github.com/vasnastos/PROGRAMMING-IN-QT/releases/tag/1.0">Release Έκδοση</a>
-    <a class="active" href="installation.html"><i>App Installation</i></a>
+    <a class="sc" href="https://github.com/vasnastos/PROGRAMMING-IN-QT/releases/tag/1.0">Release Έκδοση</a>
+    <a class="sc" href="installation.html"><i>App Installation</i></a>
 </div>
   <br><br>
 <h3 style="text-align:center;">Algorithms and complexity course</h3>
