@@ -33,9 +33,10 @@
   <div class="navbar">
   <a class="active" href="https://github.com/vasnastos"><i class="fa fa-fw fa-home"></i> HOME</a> 
   <a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/algo_complexity.pdf"><i class="fa fa-fw fa-search"></i> EXERCISE</a> 
-  <a href="#"><i class="fa fa-fw fa-envelope"></i> SOLUTION ZIP</a> 
-  <a href="https://twitter.com/home?lang=el"><i class="fa fa-fw fa-user"></i> TWITTER</a>
-  <a href="report.html"><i class="active"></i>Techical Report</a>
+  <a href="#"><i class="fa fa-fw fa-envelope"> SOLUTION ZIP</i></a> 
+  <a href="https://twitter.com/home?lang=el"><i class="fa fa-fw fa-user"> TWITTER</i></a>
+  <a href="report.html"><i class="active">Techical Report</i></a>
+    <a href="https://github.com/vasnastos/PROGRAMMING-IN-QT/releases/tag/1.0"><i class="active">Release Έκδοση</i></a>
     <a href="installation.html"><i>App Installation</i></a>
 </div>
   <br><br>
@@ -52,7 +53,6 @@
     <h4>* Κώδικας για ανάγνωση δεδομένων γραφήματος εργασίας.</h4>
     <h4>* Δημιουργία του πίνακα γειτονικότητας AdjMatrix (δισδιάστατος πίνακας, |V|x|V| με AdjMatrix[i][j] = 1 αν υπάρχει ακμή ανάμεσα στις κορυφές i και j, αλλιώς AdjMatrix[i][j] = 0).</h4>
     <h4>* Υπολογισμός του Conflict Density.</h4>
-    <h4>*Κώδικας υλοποίησης:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/aalgorithms%20and%20complexity.zip">Code</a></h4>
     <hr>
     <li><h3>Εύρεση στατιστικών στοιχείων</h3></li>
       <ul>
@@ -66,7 +66,6 @@
         <li>Για τους βαθμούς (degrees) των κορυφών η ελάχιστη τιμή (min), η διάμεσος τιμή (median),
 η μέγιστη τιμή (max), η μέση τιμή (mean) καθώς και ο συντελεστής διακύμανσης (CV=coefficient
 of variation) που ορίζεται ως η τυπική απόκλιση προς τη μέση τιμή.</li>
-        <li>Solution Code:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></li>
         </ul>
     <br>
      <hr>
@@ -89,27 +88,21 @@ of variation) που ορίζεται ως η τυπική απόκλιση πρ
         <li>Εμφάνιση όλων των αποθηκευμένων δεδομένων από την βάση δεδομένων.</li>
        </ul>
       <br>
-      <li><h4>Κώδικας υλοποίησης:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Algorithms%20and%20complexity.zip">Code</a></h4></li>
     </ul>
-    <li><h3>Πρόσφατα ενημερωμένη Τεχνική Αναφορά</h3></li>
-    <ul>
-      <li>Techical Report:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Techical_Reports/ALCO_3.docxmain/Alco.docx">Word</a></li>
-      </ul>
     <br>
     <li><h3>Εξτρα ΕΚΔΟΣΕΙΣ</h3></li>
     <ul>
-      <li>Fixed Data Reading Problems:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/Techical_Reports/Alco_fixed.docx">Code</a></li>
-      <li>Extra Edition RLF Algorithm:<a href="https://github.com/vasnastos/Algorithms_and_complexity/raw/main/RLF-Fixed.zip">Code</a></li>
+      <li>Fixed Data Reading Problems</li>
+      <li>Extra Edition RLF Algorithm</li>
       </ul>
     <br><br>
-    <hr style="border-top:2px solid red;">
+    <hr style="border-top:2px solid blue;">
     <li><h3>Αρχεία κώδικα που χρησιμοποιήθηκαν στην εφαρμογή</h3></li>
     <ul>
       <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/tree/main/Qt_Header_files">Header files</a></li>
       <li><a href="https://github.com/vasnastos/Algorithms_and_complexity/tree/main/Qt_source_code">Source files</a></li>
       </ul>
     <br>
-    <li><h3>Release Έκδοση Εφαρμογής:<a href="https://github.com/vasnastos/PROGRAMMING-IN-QT/releases/tag/1.0">Release</a></h3></li>
     </ol>
     
 
